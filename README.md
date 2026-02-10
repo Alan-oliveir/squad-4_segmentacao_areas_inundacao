@@ -68,11 +68,11 @@ Validação:
 
 ## Contribuidores
 
-- Alan de Oliveira Gonçalves
-- Albertina Costa Rodrigues
+- [Alan de Oliveira Gonçalves](https://github.com/Alan-oliveir)
+- [Albertina Costa Rodrigues](https://github.com/albiecr)
 - Arthur Henrique Silveira de Paula
 - Carlos Diego Barbosa do Nascimento
-- Carlos Victor Albuquerque Oliveira
+- [Carlos Victor Albuquerque Oliveira](https://github.com/Carlos-Vic)
 - Eduardo Fabian de Oliveira
 - Elzilene Montanha Machado
 - Layssa Rodrigues Alves
